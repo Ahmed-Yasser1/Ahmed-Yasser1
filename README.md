@@ -5,7 +5,7 @@
 
 <picture> <img align="right" src="https://github.com/Ahmed-Yasser1/Ahmed-Yasser1/blob/main/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :computer: Ex-Trainee at NTI Summer Internship "Digital Design Using FPGA"
+- :computer: Ex-Trainee at NTI Summer Internship "**Digital Design Using FPGA**"
 - :technologist: I am learning **Digital Design and Digital Verification**
 - :student: I am a **Digital Design and Digital Verification Instructor** at Breakin Point team
 - 👥 I am eager to contribute to **high-performance chip design and verification teams**
